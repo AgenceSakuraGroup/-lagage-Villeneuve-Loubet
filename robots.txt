@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elagage-villeneuve-loubet.fr/sitemap.xml
